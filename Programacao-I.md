@@ -237,7 +237,7 @@ Operadores lógicos são operadores usados para combinar ou inverter condições
 - **Operador "e"(`and`):** Retorna `True` se as duas condições forem verdadeiras.
 
     ```python
-    5 == 3 and 5 >= 5       # (False and true) Retorna: False
+    5 == 3 and 5 >= 5       # (False and True) Retorna: False
     6 < 7 and 3.14 <= 3     # (True and False) Retorna: False
     10 != 10 and 8 < 3      # (False and False) Retorna: False
     3.14 > 3 and 5 != -8    # (True and True) Retorna: True
