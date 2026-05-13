@@ -56,7 +56,7 @@ nome_da_variável = dados
     ```
 # Operadores no Python
 
-## Operadores aritmétrios
+## Operadores aritmétricos
 
 Operadores aritméticos são símbolos utilizados em linguagens de programação e matemática para realizar cálculos numéricos básicos
 
